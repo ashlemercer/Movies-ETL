@@ -1,4 +1,5 @@
 # ETL Movies Challenge
+(Wasn't able to upload the movies_meta/ratings data bc the files were too large)
 
 # Deliverable 1: Write an ETL Function to Read Three Data Files (25 points)
 
