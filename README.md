@@ -45,6 +45,20 @@ And here we see the Wiki-Movies DF shown as a whole in a list, which is easier t
 
 
 # Deliverable 3: Extract and Transform the Kaggle Data (30 points)
+For this one, I cleaned the Kaggle Metadata and merged it with the Wikipedia data using the ETL function. I then droppped unneccessary columns, filtered, and renamed it to movies_df.
+
+I then cleaned and merged the MovieLens data into that data, renaming it movies_with_ratings, and replaced empty values with '0.'
+
+Below you can see the final Dataframes for those deliverables.
+
+<img width="931" alt="wiki_movies_del3" src="https://user-images.githubusercontent.com/103979087/192050972-1ec6efe1-cc60-4c44-a0f2-45a2a241fb9a.png">
+
+<img width="918" alt="movies_w:_ratings_del3" src="https://user-images.githubusercontent.com/103979087/192050998-d173994c-2294-4fac-a527-3ad0c8de7691.png">
+
+<img width="928" alt="movies_df_del3" src="https://user-images.githubusercontent.com/103979087/192051019-9e17747d-f7e5-44b1-adc5-85d6ccc27e3d.png">
+
+
+
 
 # Deliverable 4: Create the Movie Database (15 points)
 
