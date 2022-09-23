@@ -1,4 +1,4 @@
-# Movies-ETL Challenge
+# ETL Movies Challenge
 
 # Deliverable 1: Write an ETL Function to Read Three Data Files (25 points)
 
@@ -58,8 +58,12 @@ Below you can see the final Dataframes for those deliverables.
 <img width="928" alt="movies_df_del3" src="https://user-images.githubusercontent.com/103979087/192051019-9e17747d-f7e5-44b1-adc5-85d6ccc27e3d.png">
 
 
-
-
 # Deliverable 4: Create the Movie Database (15 points)
+For the fourth and final Deliverable, we refactored the code in order to add it to the SQL Database, and then ran a query to find the number of rows/columns for ratings/movies.
 
+Below are screenshots of the queries.
+
+<img width="386" alt="ratings_query" src="https://user-images.githubusercontent.com/103979087/192053796-974b2065-eab3-409a-8aea-b4467b9b43fe.png">
+
+<img width="368" alt="movies_query" src="https://user-images.githubusercontent.com/103979087/192053802-3397049c-32c2-4f09-9e97-31fed6e81405.png">
 
